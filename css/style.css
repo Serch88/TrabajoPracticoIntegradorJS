@@ -1,0 +1,65 @@
+.px-5.navbar.navbar-expand-lg.navbar-dark{
+    background-color: #34393f;
+}
+
+.pb-2.pt-0.navbar-brand{
+    text-align: center;
+}
+
+#comprarTicket{
+    color: green;
+}
+
+.d-block.w-100{    
+    max-height: 600px !important;
+    opacity:0.5;
+}
+.conf-bsas{
+    margin-top: 200px;
+    margin-right: 100px;
+}
+
+.botonComprar{
+    background-color: #27a743;
+}
+
+.carousel-control-prev{
+    z-index: 3;
+    width: 7%;
+}
+
+.carousel-control-next{
+    z-index: 3;
+    width: 7%;
+}
+.title.text-center{
+    margin-top: 2rem;
+}
+
+.col-card{
+    border:dimgray !important;
+}
+
+.card-group{
+    padding-top: 2rem;    
+}
+.card.fondo.negro{
+    background-color: #34393f;
+    padding-top: 2rem;
+    padding-left: 1rem;
+    font-size: 15px;
+}
+
+.puntos{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+footer{
+    background: linear-gradient(#1a3644, #1b5271);
+    padding: 20px;
+    height: 80px;
+    text-align: center;
+    font-size: small;
+    color:white;
+}
