@@ -62,4 +62,15 @@ footer{
     text-align: center;
     font-size: small;
     color:white;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
 }
+
+.btn-codo{
+    background-color:#97c93e;
+    color: white;
+    width: 98%;
+    margin: 2%;
+}
+
